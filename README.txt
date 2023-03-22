@@ -1,0 +1,1 @@
+The textures on the objects oscillate between sliding up and down across the object.
